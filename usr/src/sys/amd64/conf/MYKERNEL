@@ -290,8 +290,6 @@ options 	ATH_ENABLE_11N		# Enable 802.11n support for AR5416 and later
 #device		bwn			# Broadcom BCM43xx wireless NICs.
 #device		ipw			# Intel 2100 wireless NICs.
 #device		iwi			# Intel 2200BG/2225BG/2915ABG wireless NICs.
-device		iwm
-device		iwm3168fw
 #device		iwn			# Intel 4965/1000/5000/6000 wireless NICs.
 #device		malo			# Marvell Libertas wireless NICs.
 #device		mwl			# Marvell 88W8363 802.11n wireless NICs.
