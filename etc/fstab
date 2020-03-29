@@ -1,0 +1,7 @@
+# Device	Mountpoint	FStype	Options	Dump	Pass#
+/dev/ada0p2	/		ufs	rw	1	1
+/dev/ada0p3	/usr/src		ufs	rw	2	2
+/dev/ada0p4	/usr/ports		ufs	rw	2	2
+/dev/ada0p5	/usr/obj		ufs	rw	2	2
+/dev/ada0p6	none		swap	sw	0	0
+/dev/aacd0p1	/mnt/local	ufs	rw	0	0
